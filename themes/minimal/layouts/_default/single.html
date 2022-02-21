@@ -1,0 +1,28 @@
+{{ define "title"}}
+{{ .Title }} ~ {{ .Site.Title}}
+{{ end }}
+{{ define "main" }} {{ $currentpage:= . }}
+
+<article class="single">
+  {{ if eq .Section "recipes" }}
+  <h1>Recipes</h1>
+  {{ else if eq .Section "life" }}
+  <h1>Life</h1>
+  {{ end }}
+  <div class="postheader">
+    <h2><a href="{{.Permalink}}" class="postTitle"> {{.Title }}</a></h2>
+    {{ if (ne $currentpage.Type "singlepage") }}
+    <p class="publishdate">{{.Date.Format "2006-01-02" }}</p>
+    {{ end }}
+  </div>
+  <div class="singlepagecontent">{{ .Content }}</div>
+
+  {{if and (ne .Title "About") (ne .Title "Pantagruel")}}
+  {{ partial "singlepagefooter.html" . }}
+  {{end}}
+</article>
+{{ if eq .Section "recipes"}}
+<script defer language="javascript" type="text/javascript"  src="{{ "/js/recipeschema.js" | urlize | relURL }}"></script>
+{{ end}}
+
+{{ end }}

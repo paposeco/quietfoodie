@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Food Blog</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on Food Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2013 16:04:00 +0200</lastBuildDate><atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>apple</title>
+      <link>https://www.example.com/tags/apple/</link>
+      <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
+      
+      <guid>https://www.example.com/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>custard</title>
+      <link>https://www.example.com/tags/custard/</link>
+      <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
+      
+      <guid>https://www.example.com/tags/custard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>puffpastry</title>
+      <link>https://www.example.com/tags/puffpastry/</link>
+      <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
+      
+      <guid>https://www.example.com/tags/puffpastry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bread</title>
+      <link>https://www.example.com/tags/bread/</link>
+      <pubDate>Sat, 30 Mar 2013 13:46:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/tags/bread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>easter</title>
+      <link>https://www.example.com/tags/easter/</link>
+      <pubDate>Sat, 30 Mar 2013 13:46:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/tags/easter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portuguese</title>
+      <link>https://www.example.com/tags/portuguese/</link>
+      <pubDate>Sat, 30 Mar 2013 13:46:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/tags/portuguese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>special occasion</title>
+      <link>https://www.example.com/tags/special-occasion/</link>
+      <pubDate>Sat, 30 Mar 2013 13:46:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/tags/special-occasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pork</title>
+      <link>https://www.example.com/tags/pork/</link>
+      <pubDate>Sun, 17 Mar 2013 17:02:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/tags/pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portugueseculinary</title>
+      <link>https://www.example.com/tags/portugueseculinary/</link>
+      <pubDate>Sun, 17 Mar 2013 17:02:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/tags/portugueseculinary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>roast</title>
+      <link>https://www.example.com/tags/roast/</link>
+      <pubDate>Sun, 17 Mar 2013 17:02:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/tags/roast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+# your domain
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+# blog name
+title = "Food Blog" 
+theme = "minimal"
+sectionPagesMenu = "main"
+  paginate = 3
+[markup.goldmark.renderer]
+  unsafe = true
+[params]
+  mainSections = ['Recipes']
+  # your name 
+  AuthorName = "teste"
+[taxonomies]
+  tag = "tags"
+  course = "courses"
+# for search functionality with lunr
+[outputs]
+home = ["HTML", "JSON", "RSS"]

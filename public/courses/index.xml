@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Food Blog</title>
+    <link>https://www.example.com/courses/</link>
+    <description>Recent content in Courses on Food Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2013 16:04:00 +0200</lastBuildDate><atom:link href="https://www.example.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>breakfast</title>
+      <link>https://www.example.com/courses/breakfast/</link>
+      <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
+      
+      <guid>https://www.example.com/courses/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessert</title>
+      <link>https://www.example.com/courses/dessert/</link>
+      <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
+      
+      <guid>https://www.example.com/courses/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>main course</title>
+      <link>https://www.example.com/courses/main-course/</link>
+      <pubDate>Sun, 17 Mar 2013 17:02:00 +0100</pubDate>
+      
+      <guid>https://www.example.com/courses/main-course/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

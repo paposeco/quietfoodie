@@ -1,0 +1,17 @@
+<div class="pagefooter">
+  <div class="shareemail">
+    <a
+      href="mailto:?subject={{.Title}} Recipe&body={{ .Permalink }}"
+      title="Share by email"
+      ><img src="/images/mail-line.svg" alt="envelope" class="envelope" /> Share
+      by email</a
+    >
+  </div>
+  <div class="singlepagepaginatinor">
+    {{ with .PrevInSection }}
+    <a class="previous" href="{{.Permalink}}"> << {{.Title}}</a>
+    {{ end }} {{ with .NextInSection }}
+    <a class="next" href="{{.Permalink}}"> {{.Title}} >></a>
+    {{ end }}
+  </div>
+</div>

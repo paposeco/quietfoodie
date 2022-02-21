@@ -1,0 +1,27 @@
+<header>
+  <h1><a href="/">{{ .Site.Title }}</a></h1>
+  <nav class="top-nav">
+    <ul>
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+
+      {{if (and (eq .Name "Recipes") (eq $currentPage.Kind "home"))}}
+      <li class="active">
+        <a href="{{ .URL }}">
+          {{ .Pre }}
+          <span>{{ .Name }}</span>
+        </a>
+      </li>
+      {{ else }}
+      <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
+        <a href="{{ .URL }}">
+          {{ .Pre }}
+          <span>{{ .Name }}</span>
+        </a>
+      </li>
+      {{end}}
+      {{ end }}
+    </ul>
+  </nav>
+</header>
+

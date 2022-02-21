@@ -1,0 +1,26 @@
+{{ define "title"}} 
+  {{ .Title }} ~ {{ .Site.Title}} 
+{{ end }} 
+
+{{ define "main" }}
+<section>
+  <h1>{{ .Title }}</h1>
+  {{ if (eq .Title "Courses") }}
+    {{ range (.Paginator 35).Pages }}
+      <article class="coursepost">
+        <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+      </article>
+      {{ end }}
+
+      {{ else }}
+      <div id="coursesthumbnails">
+      {{ range (.Paginator 35).Pages }}
+         <article class="coursepost">
+           <h2><a href="{{.Permalink}}" class="postTitle">{{ .Title }}</a></h2>
+           <a href="{{.Permalink}}"><img src="{{ .Params.featuredimg }}" alt="{{ .Page.Title }}" class="recipethumbnail"/></a>
+         </article>
+      {{ end }}
+      </div>
+  {{ end }}
+</section>
+{{ end }}
