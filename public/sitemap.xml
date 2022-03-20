@@ -11,6 +11,9 @@
     <loc>https://www.example.com/life/</loc>
     <lastmod>2022-01-09T11:15:29+01:00</lastmod>
   </url><url>
+    <loc>https://www.example.com/life/another/</loc>
+    <lastmod>2022-03-20T17:39:56+01:00</lastmod>
+  </url><url>
     <loc>https://www.example.com/life/2022-02-16-a-trip-to-seoul/</loc>
     <lastmod>2022-02-15T10:59:00+02:00</lastmod>
   </url><url>

@@ -1,9 +1,14 @@
+@font-face{
+    font-family: "Inter";
+    src: url("Inter-VariableFont_slnt,wght.ttf");
+}
+
 html{
     box-sizing: border-box;
     width: 98vw;
     background-color: white;
     color: #252525;
-    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace
+    font-family: Inter, sans-serif, arial;
 }
 
 body{
@@ -12,9 +17,6 @@ body{
     padding-top: 20px;
 }
 
-h1,h2,h3,a, .displaydescription{
-    word-spacing: -0.2em;
-}
 
 .top-nav ul li{
     list-style: none;

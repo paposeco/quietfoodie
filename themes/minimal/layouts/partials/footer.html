@@ -27,13 +27,14 @@
     <span>
       |
       <img src="/images/copyright-fill.svg" alt="copyright" />
-      Punched Potatoes</span
+      {{ .Site.Title }}</span
     >
   </p>
   <script defer language="javascript" type="module"  src="{{ "/js/search.js" | urlize | relURL }}"></script>
   <script src="https://unpkg.com/lunr/lunr.js"></script>
-  {{ if eq .Section "recipes"}}
+  <script defer language="javascript" type="text/javascript"  src="{{ "/js/hidedescription.js" | urlize | relURL }}"></script>
+  {{ if and (eq .Section "recipes") ($.Site.Params.imagesSideBySide)}}
   <script defer language="javascript" type="text/javascript"  src="{{ "/js/tutorialimages.js" | urlize | relURL }}"></script>
-  {{ end}}
+  {{ end }}
 </footer>
 

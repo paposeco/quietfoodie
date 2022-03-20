@@ -20,12 +20,14 @@
     <p style="text-align: center">***</p>
     <hr class="separatorline" />
   </article>
-  {{ end }} {{/* template "_internal/pagination.html" . */}} {{ if
-  .Paginator.HasPrev }}
+  {{ end }}
+  {{ if .Paginator.HasPrev }}
   <a href="{{ .Paginator.Prev.URL }}" class="paginatorarrows"> << </a>
   {{ end }} {{ .Paginator.PageNumber }} {{ if .Paginator.HasNext }}
   <a href="{{ .Paginator.Next.URL }}" class="paginatorarrows"> >> </a>
   {{ end }}
 </section>
+{{ if $.Site.Params.imagesSideBySide }}
 <script defer language="javascript" type="text/javascript"  src="{{ "/js/tutorialimages.js" | urlize | relURL }}"></script>
+{{ end }}
 {{ end }}

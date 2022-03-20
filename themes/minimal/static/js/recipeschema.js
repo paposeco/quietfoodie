@@ -1,4 +1,4 @@
-var isocooktime = function(cooktime) {
+var isocooktime = function (cooktime) {
   var time = Number(cooktime.substring(0, cooktime.indexOf(" ")));
   var units = cooktime.substring(cooktime.indexOf(" ") + 1);
   var isotime = "";
@@ -21,7 +21,7 @@ var isocooktime = function(cooktime) {
   }
   return isotime;
 };
-var insertSchema = (function() {
+var insertSchema = (function () {
   var yieldSpan = document.querySelector(".yield");
   var cookTimeSpan = document.querySelector(".duration");
   var publishdate = document.querySelector(".publishdate");
@@ -79,9 +79,12 @@ var insertSchema = (function() {
   }
   var ascript = document.createElement("script");
   var head = document.querySelector("head");
+  var authorsname = document.querySelector('meta[name="author"]').content;
   ascript.setAttribute("type", "application/ld+json");
   ascript.textContent =
-    '{\n  "@context": "https://schema.org",\n  "@type": "Recipe",\n  "author": "Punched Potatoes",\n  "totalTime": "'
+    '{\n  "@context": "https://schema.org",\n  "@type": "Recipe",\n  "author": ' +
+    authorsname +
+    ',\n  "totalTime": "'
       .concat(isotime, '",\n  "datePublished": "')
       .concat(publishdate.textContent, '",\n  "image": "')
       .concat(selectImage.src, '",\n  "recipeIngredient": [')
@@ -91,24 +94,5 @@ var insertSchema = (function() {
       .concat(yieldSpan.textContent, '"\n}');
   if (head !== null) {
     head.appendChild(ascript);
-  }
-  var postcontent = document.querySelector(".singlepagecontent");
-  var description = document.querySelector(".description");
-  var displaydescription = document.createElement("div");
-  displaydescription.classList.add("displaydescription");
-  displaydescription.textContent = "> Click to read fluff <";
-  displaydescription.addEventListener("click", function(event) {
-    if (description !== null) {
-      if (description.hidden) {
-        displaydescription.textContent = "> Hide <";
-        description.hidden = false;
-      } else {
-        displaydescription.textContent = "> Click to read fluff <";
-        description.hidden = true;
-      }
-    }
-  });
-  if (postcontent !== null) {
-    postcontent.insertBefore(displaydescription, description);
   }
 })();

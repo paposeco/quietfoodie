@@ -12,10 +12,19 @@ sectionPagesMenu = "main"
 [params]
   mainSections = ['Recipes']
   # your name 
-  AuthorName = "teste"
+  authorname = "Author"
+  # change to false if you don't want a recipe schema to be created 
+  # automatically
+  recipeSchema = true
+  # change to false to disable script for placing images side by side in 
+  # recipes; either way on desktop the images width will be 100%
+  imagesSideBySide = true
 [taxonomies]
   tag = "tags"
   course = "courses"
 # for search functionality with lunr
 [outputs]
 home = ["HTML", "JSON", "RSS"]
+
+# if you want a favicon, just place it in /static/images
+

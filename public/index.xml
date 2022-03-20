@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jan 2022 18:27:35 +0100</lastBuildDate><atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Another</title>
+      <link>https://www.example.com/life/another/</link>
+      <pubDate>Sun, 20 Mar 2022 17:39:56 +0100</pubDate>
+      
+      <guid>https://www.example.com/life/another/</guid>
+      <description>yo yo yo</description>
+    </item>
+    
+    <item>
       <title>A trip to Seoul</title>
       <link>https://www.example.com/life/2022-02-16-a-trip-to-seoul/</link>
       <pubDate>Tue, 15 Feb 2022 10:59:00 +0200</pubDate>
@@ -22,7 +31,8 @@
       <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
       
       <guid>https://www.example.com/recipes/2013-06-11-apple-tarts/</guid>
-      <description>Ingredients (8-10 tarts)For the puff pastry:
+      <description>something
+Ingredients (8-10 tarts)For the puff pastry:
  250g flour (or 2 cups and 1 heaped tablespoon) 250g butter (or 1 cup and 1 tablespoon) 1-1.5dl lukewarm water (or a little over 1/3 cup to a little less than 2/3 cups) 3g salt (0.11oz)  For the pastry cream:
  38g flour (or 1/3 cup) 100g sugar (or 1/2 cup) 250ml milk (or a little over 1 cup) 3 egg yolks 1/2 teaspoon vanilla  For the tarts:</description>
     </item>

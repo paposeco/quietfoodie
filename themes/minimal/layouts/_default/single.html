@@ -21,8 +21,10 @@
   {{ partial "singlepagefooter.html" . }}
   {{end}}
 </article>
-{{ if eq .Section "recipes"}}
+{{ if and (eq .Section "recipes") ($.Site.Params.recipeSchema)}}
 <script defer language="javascript" type="text/javascript"  src="{{ "/js/recipeschema.js" | urlize | relURL }}"></script>
+
 {{ end}}
 
 {{ end }}
+

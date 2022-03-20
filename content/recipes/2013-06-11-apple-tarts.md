@@ -2,10 +2,13 @@
 title = "Apple Tarts"
 slug = "2013-06-11-apple-tarts"
 published = 2013-06-11T16:04:00+02:00
-author = "Fabi"
+author = "Fabi" 
 tags = [ "apple", "custard", "puffpastry",]
 courses = ["dessert", "breakfast"]
 +++
+<div class="description" hidden>
+<p>something</p>
+</div>
 
 ![apple-tarts0](/images/2013-06-11-apple-tarts-IMG_2845.jpg)
 
