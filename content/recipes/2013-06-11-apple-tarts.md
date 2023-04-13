@@ -7,13 +7,17 @@ tags = [ "apple", "custard", "puffpastry",]
 courses = ["dessert", "breakfast"]
 +++
 <div class="description" hidden>
-<p>something</p>
+<p>If you want to add a story to the recipe, but hide it from the reader unless he chooses to read it, place the text inside. Unfortunately, you will have to write it in html and not markdown.</p>
 </div>
 
+<!-- the first image will be used on the recipe schema -->
 ![apple-tarts0](/images/2013-06-11-apple-tarts-IMG_2845.jpg)
 
+<!-- if you want a to use the recipe schema script, you will need to write some titles in html and follow the same recipe writing pattern -->
 <h3>Ingredients (<span class="yield">8-10 tarts</span>)</h3>
 
+
+<!-- ingredients must be written on a list as follows (you don't have to use the <u></u>). Every unordered list item will be considered an ingredient -->
 <u>For the puff pastry</u>:
 
 -   250g flour (or 2 cups and 1 heaped tablespoon)

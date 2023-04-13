@@ -7,19 +7,20 @@ tags = [ "portuguese", "special occasion", "easter", "bread",]
 courses = ["breakfast", "dessert"]
 +++
 
+<!-- check the apple tarts file for more information on how to format your recipes -->
 ![easter-bread-ii0](/images/2013-03-30-easter-bread-ii-IMG_2892.JPG)
 
 <h3>Ingredients (<span class="yield">2 loaves</span>)</h3>
 
--   500g flour (or 4 1/4 cups)
--   100g butter (or 1/2 cup)
--   15g fresh yeast (or 0.5oz)
--   3 tablespoons sugar
--   2 small eggs
+-   500g flour (or 4 1/4 cups)
+-   100g butter (or 1/2 cup)
+-   15g fresh yeast (or 0.5oz)
+-   3 tablespoons sugar
+-   2 small eggs
 -   2,5dl milk (plus a little more to dissolve the yeast) (or 1 cup and 1 tablespoon)
--   1 teaspoon salt
--   1 teaspoon cinnamon
--   1 teaspoon fennel seeds chopped or powdered
+-   1 teaspoon salt
+-   1 teaspoon cinnamon
+-   1 teaspoon fennel seeds chopped or powdered
 -   2 boiled eggs (optional)
 
 <h3>Instructions (Time: <span class="duration">4 hours</span>)</h3>

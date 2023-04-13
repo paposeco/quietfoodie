@@ -7,6 +7,8 @@ tags = [ "roast", "portuguese", "pork", "portugueseculinary",]
 courses = ["main course"]
 +++
 
+<!-- check the apple tarts file for more information on how to format your recipes -->
+
 ![roasted-pork-carre0](/images/2013-03-17-roasted-pork-carre-IMG_2814.JPG)
 
 <h3>Ingredients (<span class="yield">4 servings</span>)</h3>

@@ -28,3 +28,5 @@ home = ["HTML", "JSON", "RSS"]
 
 # if you want a favicon, just place it in /static/images
 
+# type hugo new recipes/nameofrecipe.md to create empty recipe file; for life stuff type hugo new life/nameofpost.md
+
