@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <meta charset="utf-8" />
+  <script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8" />
   <meta name="author" content=Author />
   <title>
 Apple Tarts ~ Food Blog
@@ -64,16 +64,19 @@ Apple Tarts ~ Food Blog
   <h1>Recipes</h1>
   
   <div class="postheader">
-    <h2><a href="https://www.example.com/recipes/2013-06-11-apple-tarts/" class="postTitle"> Apple Tarts</a></h2>
+    <h2><a href="http://localhost:1313/recipes/2013-06-11-apple-tarts/" class="postTitle"> Apple Tarts</a></h2>
     
     <p class="publishdate">2013-06-11</p>
     
   </div>
   <div class="singlepagecontent"><div class="description" hidden>
-<p>something</p>
+<p>If you want to add a story to the recipe, but hide it from the reader unless he chooses to read it, place the text inside. Unfortunately, you will have to write it in html and not markdown.</p>
 </div>
+<!-- the first image will be used on the recipe schema -->
 <p><img src="/images/2013-06-11-apple-tarts-IMG_2845.jpg" alt="apple-tarts0"></p>
+<!-- if you want a to use the recipe schema script, you will need to write some titles in html and follow the same recipe writing pattern -->
 <h3>Ingredients (<span class="yield">8-10 tarts</span>)</h3>
+<!-- ingredients must be written on a list as follows (you don't have to use the <u></u>). Every unordered list item will be considered an ingredient -->
 <p><u>For the puff pastry</u>:</p>
 <ul>
 <li>250g flour (or 2 cups and 1 heaped tablespoon)</li>
@@ -132,7 +135,7 @@ Apple Tarts ~ Food Blog
   <div class="pagefooter">
   <div class="shareemail">
     <a
-      href="mailto:?subject=Apple%20Tarts Recipe&body=https%3a%2f%2fwww.example.com%2frecipes%2f2013-06-11-apple-tarts%2f"
+      href="mailto:?subject=Apple%20Tarts Recipe&body=http%3a%2f%2flocalhost%3a1313%2frecipes%2f2013-06-11-apple-tarts%2f"
       title="Share by email"
       ><img src="/images/mail-line.svg" alt="envelope" class="envelope" /> Share
       via email</a
@@ -140,7 +143,7 @@ Apple Tarts ~ Food Blog
   </div>
   <div class="singlepagepaginatinor">
     
-    <a class="previous" href="https://www.example.com/recipes/2013-03-30-easter-bread-ii/"> &lt;&lt; Easter Bread II</a>
+    <a class="previous" href="http://localhost:1313/recipes/2013-03-30-easter-bread-ii/"> &lt;&lt; Easter Bread II</a>
      
   </div>
 </div>
@@ -149,6 +152,7 @@ Apple Tarts ~ Food Blog
 </article>
 
 <script defer language="javascript" type="text/javascript"  src="/js/recipeschema.js"></script>
+
 
 
  <aside>
@@ -183,7 +187,7 @@ Apple Tarts ~ Food Blog
     </li>
     
     <li>
-      <a href="/courses/main-course">main-course</a> (1)
+      <a href="/courses/main-course">main course</a> (1)
     </li>
     
   </ul>
@@ -231,7 +235,7 @@ Apple Tarts ~ Food Blog
     </li>
     
     <li>
-      <a href="/tags/special-occasion">special-occasion</a> (1)
+      <a href="/tags/special-occasion">special occasion</a> (1)
     </li>
     
   </ul>
@@ -274,10 +278,12 @@ Apple Tarts ~ Food Blog
   </p>
   <script defer language="javascript" type="module"  src="/js/search.js"></script>
   <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script defer language="javascript" type="text/javascript"  src="/js/hidedescription.js"></script>
   
   <script defer language="javascript" type="text/javascript"  src="/js/tutorialimages.js"></script>
   
 </footer>
+
 
 
   </body>

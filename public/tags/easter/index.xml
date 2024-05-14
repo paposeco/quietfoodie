@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>easter on Food Blog</title>
-    <link>https://www.example.com/tags/easter/</link>
-    <description>Recent content in easter on Food Blog</description>
+    <title>Easter on Food Blog</title>
+    <link>http://localhost:1313/tags/easter/</link>
+    <description>Recent content in Easter on Food Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2013 13:46:00 +0100</lastBuildDate><atom:link href="https://www.example.com/tags/easter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2013 13:46:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/easter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easter Bread II</title>
-      <link>https://www.example.com/recipes/2013-03-30-easter-bread-ii/</link>
+      <link>http://localhost:1313/recipes/2013-03-30-easter-bread-ii/</link>
       <pubDate>Sat, 30 Mar 2013 13:46:00 +0100</pubDate>
       
-      <guid>https://www.example.com/recipes/2013-03-30-easter-bread-ii/</guid>
-      <description>Ingredients (2 loaves) 500g flour (or 4 1/4 cups) 100g butter (or 1/2 cup) 15g fresh yeast (or 0.5oz) 3 tablespoons sugar 2 small eggs 2,5dl milk (plus a little more to dissolve the yeast) (or 1 cup and 1 tablespoon) 1 teaspoon salt 1 teaspoon cinnamon 1 teaspoon fennel seeds chopped or powdered 2 boiled eggs (optional)  Instructions (Time: 4 hours)Start by dissolving the yeast in a bit of warm milk.</description>
+      <guid>http://localhost:1313/recipes/2013-03-30-easter-bread-ii/</guid>
+      <description>Ingredients (2 loaves)500g flour (or 4 1/4 cups) 100g butter (or 1/2 cup) 15g fresh yeast (or 0.5oz) 3 tablespoons sugar 2 small eggs 2,5dl milk (plus a little more to dissolve the yeast) (or 1 cup and 1 tablespoon) 1 teaspoon salt 1 teaspoon cinnamon 1 teaspoon fennel seeds chopped or powdered 2 boiled eggs (optional) Instructions (Time: 4 hours)Start by dissolving the yeast in a bit of warm milk.</description>
     </item>
     
   </channel>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>apple on Food Blog</title>
-    <link>https://www.example.com/tags/apple/</link>
-    <description>Recent content in apple on Food Blog</description>
+    <title>Apple on Food Blog</title>
+    <link>http://localhost:1313/tags/apple/</link>
+    <description>Recent content in Apple on Food Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2013 16:04:00 +0200</lastBuildDate><atom:link href="https://www.example.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2013 16:04:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple Tarts</title>
-      <link>https://www.example.com/recipes/2013-06-11-apple-tarts/</link>
+      <link>http://localhost:1313/recipes/2013-06-11-apple-tarts/</link>
       <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
       
-      <guid>https://www.example.com/recipes/2013-06-11-apple-tarts/</guid>
-      <description>something
-Ingredients (8-10 tarts)For the puff pastry:
- 250g flour (or 2 cups and 1 heaped tablespoon) 250g butter (or 1 cup and 1 tablespoon) 1-1.5dl lukewarm water (or a little over 1/3 cup to a little less than 2/3 cups) 3g salt (0.11oz)  For the pastry cream:
- 38g flour (or 1/3 cup) 100g sugar (or 1/2 cup) 250ml milk (or a little over 1 cup) 3 egg yolks 1/2 teaspoon vanilla  For the tarts:</description>
+      <guid>http://localhost:1313/recipes/2013-06-11-apple-tarts/</guid>
+      <description>If you want to add a story to the recipe, but hide it from the reader unless he chooses to read it, place the text inside. Unfortunately, you will have to write it in html and not markdown.
+Ingredients (8-10 tarts)For the puff pastry:
+250g flour (or 2 cups and 1 heaped tablespoon) 250g butter (or 1 cup and 1 tablespoon) 1-1.5dl lukewarm water (or a little over 1/3 cup to a little less than 2/3 cups) 3g salt (0.</description>
     </item>
     
   </channel>

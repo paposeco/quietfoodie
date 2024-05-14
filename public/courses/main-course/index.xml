@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>main course on Food Blog</title>
-    <link>https://www.example.com/courses/main-course/</link>
-    <description>Recent content in main course on Food Blog</description>
+    <title>Main Course on Food Blog</title>
+    <link>http://localhost:1313/courses/main-course/</link>
+    <description>Recent content in Main Course on Food Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2013 17:02:00 +0100</lastBuildDate><atom:link href="https://www.example.com/courses/main-course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2013 17:02:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/courses/main-course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roasted Pork Carré</title>
-      <link>https://www.example.com/recipes/2013-03-17-roasted-pork-carre/</link>
+      <link>http://localhost:1313/recipes/2013-03-17-roasted-pork-carre/</link>
       <pubDate>Sun, 17 Mar 2013 17:02:00 +0100</pubDate>
       
-      <guid>https://www.example.com/recipes/2013-03-17-roasted-pork-carre/</guid>
-      <description>Ingredients (4 servings) 1,5kg pork carré (or 3.3lbs) 3 garlic cloves 3 onions 1 sage leaf 1 lemon 2dl white wine (or 3/4 cup) olive oil, salt, pepper q.s.  Instructions (Time: 90 minutes)Place the garlic cloves grossly chopped, the onions sliced in 4, the bay leaf and some olive oil on the bottom of a baking dish. Lay the pork carré on top of the onions with the bones down.</description>
+      <guid>http://localhost:1313/recipes/2013-03-17-roasted-pork-carre/</guid>
+      <description>Ingredients (4 servings)1,5kg pork carré (or 3.3lbs) 3 garlic cloves 3 onions 1 sage leaf 1 lemon 2dl white wine (or 3/4 cup) olive oil, salt, pepper q.s. Instructions (Time: 90 minutes)Place the garlic cloves grossly chopped, the onions sliced in 4, the bay leaf and some olive oil on the bottom of a baking dish. Lay the pork carré on top of the onions with the bones down.</description>
     </item>
     
   </channel>

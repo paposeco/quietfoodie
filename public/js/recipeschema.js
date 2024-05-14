@@ -95,23 +95,4 @@ var insertSchema = (function () {
   if (head !== null) {
     head.appendChild(ascript);
   }
-  var postcontent = document.querySelector(".singlepagecontent");
-  var description = document.querySelector(".description");
-  var displaydescription = document.createElement("div");
-  displaydescription.classList.add("displaydescription");
-  displaydescription.textContent = "> Click to read fluff <";
-  displaydescription.addEventListener("click", function (event) {
-    if (description !== null) {
-      if (description.hidden) {
-        displaydescription.textContent = "> Hide <";
-        description.hidden = false;
-      } else {
-        displaydescription.textContent = "> Click to read fluff <";
-        description.hidden = true;
-      }
-    }
-  });
-  if (postcontent !== null && description !== null) {
-    postcontent.insertBefore(displaydescription, description);
-  }
 })();

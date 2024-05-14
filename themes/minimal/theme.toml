@@ -1,11 +1,11 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+# Minimal Hugo Theme 
 
 name = "Minimal"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+licenselink = "https://github.com/yourname/yourtheme/LICENSE"
 description = "Simple food blog"
-homepage = "https://github.com/paposeco"
+homepage = "https://github.com/paposeco/cleanhugotheme"
+demosite = "https://punchedpotatoes.com"
 tags = ["recipes", "blog"]
 features = ["minimalist", "white"]
 min_version = "0.41.0"
