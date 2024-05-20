@@ -1,31 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dessert on Food Blog</title>
-    <link>http://localhost:1313/courses/dessert/</link>
-    <description>Recent content in Dessert on Food Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2013 16:04:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/courses/dessert/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apple Tarts</title>
-      <link>http://localhost:1313/recipes/2013-06-11-apple-tarts/</link>
-      <pubDate>Tue, 11 Jun 2013 16:04:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/recipes/2013-06-11-apple-tarts/</guid>
-      <description>If you want to add a story to the recipe, but hide it from the reader unless he chooses to read it, place the text inside. Unfortunately, you will have to write it in html and not markdown.
-Ingredients (8-10 tarts)For the puff pastry:
-250g flour (or 2 cups and 1 heaped tablespoon) 250g butter (or 1 cup and 1 tablespoon) 1-1.5dl lukewarm water (or a little over 1/3 cup to a little less than 2/3 cups) 3g salt (0.</description>
-    </item>
-    
-    <item>
-      <title>Easter Bread II</title>
-      <link>http://localhost:1313/recipes/2013-03-30-easter-bread-ii/</link>
-      <pubDate>Sat, 30 Mar 2013 13:46:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/recipes/2013-03-30-easter-bread-ii/</guid>
-      <description>Ingredients (2 loaves)500g flour (or 4 1/4 cups) 100g butter (or 1/2 cup) 15g fresh yeast (or 0.5oz) 3 tablespoons sugar 2 small eggs 2,5dl milk (plus a little more to dissolve the yeast) (or 1 cup and 1 tablespoon) 1 teaspoon salt 1 teaspoon cinnamon 1 teaspoon fennel seeds chopped or powdered 2 boiled eggs (optional) Instructions (Time: 4 hours)Start by dissolving the yeast in a bit of warm milk.</description>
-    </item>
-    
-  </channel>
-</rss>
