@@ -1,0 +1,14 @@
+{{ define "title"}} {{ .Title }} ~ {{ .Site.Title}} {{ end }} {{ define "main"
+}}
+<main>
+  <div>
+    <h1>{{ .Title }}</h1>
+    {{ range .Pages }}
+    <article>
+      <h2><a href="{{ .Permalink }}">{{.Title}}</a></h2>
+      {{ .Summary }}
+    </article>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

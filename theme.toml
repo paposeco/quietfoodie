@@ -1,0 +1,14 @@
+# Minimal Hugo Theme 
+
+name = "Quiet Foodie"
+license = "MIT"
+licenselink = "https://github.com/paposeco/cleanhugotheme/LICENSE"
+description = "Simple food blog with optional recipe schema markup"
+homepage = "https://github.com/paposeco/cleanhugotheme"
+demosite = "https://punchedpotatoes.com"
+tags = ["recipes", "blog"]
+features = ["minimalist", "white"]
+
+[author]
+  name = "Fabi"
+  homepage = "https://github.com/paposeco"

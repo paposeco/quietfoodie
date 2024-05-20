@@ -1,0 +1,41 @@
+# your domain
+baseURL = "https://www.example.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+# blog name
+title = "Food Blog" 
+theme = "quietfoodie"
+sectionPagesMenu = "main"
+  paginate = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  mainSections = ['Recipes']
+  # your name 
+  authorname = "Author"
+  # change to false if you don't want to use recipe schema markup
+  recipeSchema = true
+
+[taxonomies]
+  tag = "tags"
+  course = "courses"
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+
+[module]
+  [module.hugoVersion]
+    min = "0.41.0"
+
+# if you want a favicon, just place it in /static/images
+
+# to create a new empty recipe with recipe schema markup, 
+# type hugo new content --kind recipeschema recipes/nameofrecipe.md
+
+# for a recipe without markup type hugo new content recipes/nameofrecipe.md
+# for a life post type hugo new content life/nameofpost.md
+
+# life updates will never show up on the front page
