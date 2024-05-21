@@ -1,12 +1,12 @@
 +++
 title = "Apple Tarts"
-published = 2013-06-11T16:04:00+02:00
+published = 2024-05-21T12:22:31+01:00
 draft = false
-author = "Fabi" 
-tags = [ "apple", "custard", "puffpastry",]
+author = "Author"
+tags = ["apple", "custard", "puffpastry"]
 courses = ["dessert", "breakfast"]
 # recipe thumbnail on courses
-featuredimg = "/images/2013-06-11-apple-tarts-IMG_2845.jpg" 
+featuredimg = "/images/appletarts/2013-06-11-apple-tarts-IMG_2845.jpg"
 +++
 <!-- Recipe example with schema -->
 
@@ -18,7 +18,8 @@ featuredimg = "/images/2013-06-11-apple-tarts-IMG_2845.jpg"
 {{< /description >}}
 
 <!-- the first image will be used on the recipe schema -->
-![featuredimg](/images/2013-06-11-apple-tarts-IMG_2845.jpg)
+<!-- place images in the /static/images folder. you can place them inside folders too-->
+![recipeimg](/images/appletarts/2013-06-11-apple-tarts-IMG_2845.jpg)
 
 <!-- shortcode for recipe yield -->
 {{< ingredients yield="8-10 tarts" >}}
@@ -133,4 +134,3 @@ Let them cool down before serving.
 ![apple-tarts15](/images/2013-06-11-apple-tarts-IMG_2857.jpg)
 
 ![apple-tarts16](/images/2013-06-11-apple-tarts-IMG_2868.jpg)
-

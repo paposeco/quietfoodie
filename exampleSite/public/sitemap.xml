@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://paposeco.github.io/cleanhugotheme/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/recipes/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/life/</loc>
     <lastmod>2022-02-15T10:59:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/recipes/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/apple/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/life/</loc>
+    <loc>https://paposeco.github.io/cleanhugotheme/recipes/2013-06-11-apple-tarts/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/courses/breakfast/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/courses/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/custard/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/courses/dessert/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/puffpastry/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/</loc>
+    <lastmod>2024-05-21T12:22:31+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/bread/</loc>
+    <lastmod>2024-05-20T14:05:54+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/easter/</loc>
+    <lastmod>2024-05-20T14:05:54+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/recipes/2013-03-30-easter-bread-ii/</loc>
+    <lastmod>2024-05-20T14:05:54+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/portuguese/</loc>
+    <lastmod>2024-05-20T14:05:54+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/tags/special-occasion/</loc>
+    <lastmod>2024-05-20T14:05:54+01:00</lastmod>
+  </url><url>
+    <loc>https://paposeco.github.io/cleanhugotheme/life/2022-02-16-seoul/</loc>
     <lastmod>2022-02-15T10:59:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/life/2022-02-16-seoul/</loc>
-    <lastmod>2022-02-15T10:59:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/apple/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/recipes/2013-06-11-apple-tarts/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/courses/breakfast/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/courses/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/custard/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/courses/dessert/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/puffpastry/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/</loc>
-    <lastmod>2013-06-11T16:04:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/bread/</loc>
-    <lastmod>2013-03-30T13:46:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/easter/</loc>
-    <lastmod>2013-03-30T13:46:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/recipes/2013-03-30-easter-bread-ii/</loc>
-    <lastmod>2013-03-30T13:46:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/portuguese/</loc>
-    <lastmod>2013-03-30T13:46:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/tags/special-occasion/</loc>
-    <lastmod>2013-03-30T13:46:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.example.com/about/</loc>
+    <loc>https://paposeco.github.io/cleanhugotheme/about/</loc>
   </url>
 </urlset>

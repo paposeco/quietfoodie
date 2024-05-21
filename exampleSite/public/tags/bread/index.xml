@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bread on Food Blog</title>
-    <link>https://www.example.com/tags/bread/</link>
+    <link>https://paposeco.github.io/cleanhugotheme/tags/bread/</link>
     <description>Recent content in Bread on Food Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2013 13:46:00 +0100</lastBuildDate><atom:link href="https://www.example.com/tags/bread/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 14:05:54 +0100</lastBuildDate><atom:link href="https://paposeco.github.io/cleanhugotheme/tags/bread/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Easter Bread II</title>
-      <link>https://www.example.com/recipes/2013-03-30-easter-bread-ii/</link>
-      <pubDate>Sat, 30 Mar 2013 13:46:00 +0100</pubDate>
+      <title>Easter Bread</title>
+      <link>https://paposeco.github.io/cleanhugotheme/recipes/2013-03-30-easter-bread-ii/</link>
+      <pubDate>Mon, 20 May 2024 14:05:54 +0100</pubDate>
       
-      <guid>https://www.example.com/recipes/2013-03-30-easter-bread-ii/</guid>
+      <guid>https://paposeco.github.io/cleanhugotheme/recipes/2013-03-30-easter-bread-ii/</guid>
       <description>Ingredients (2 loaves) 500g flour (or 4 1/4 cups)
 100g butter (or 1/2 cup)
 15g fresh yeast (or 0.5oz)

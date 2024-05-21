@@ -1,15 +1,16 @@
 +++
-title = "Easter Bread II"
-published = 2013-03-30T13:46:00+01:00
+title = "Easter Bread"
+published = 2024-05-20T14:05:54+01:00
 draft = false
-author = "Fabi"
-tags = [ "portuguese", "special occasion", "easter", "bread",]
+author = "Author"
+tags = ["portuguese", "special occasion", "easter", "bread"]
 courses = ["breakfast", "dessert"]
 # recipe thumbnail on courses
 featuredimg = "/images/2013-03-30-easter-bread-ii-IMG_2892.JPG"
 +++
 <!-- Recipe example without schema -->
-![easter-bread-ii0](/images/2013-03-30-easter-bread-ii-IMG_2892.JPG)
+<!-- place images in the /static/images folder. you can place them inside folders too-->
+![recipeimg](/images/2013-03-30-easter-bread-ii-IMG_2892.JPG)
 
 ### Ingredients (2 loaves)
 
