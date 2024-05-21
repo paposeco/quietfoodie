@@ -2,7 +2,7 @@
 
 Clean and concise Hugo theme designed for creating a Food Blog. 
 
-![screenshot](images/screenshot.png)
+![screenshot](https://github.com/paposeco/cleanhugotheme/blob/master/images/screenshot.png)
 
 ## Live demo
 
@@ -16,7 +16,7 @@ You can find a live demo on [github pages](https://paposeco.github.io/cleanhugot
 - If you like to include a personal note on your recipes, you can hide it from your users by default, but still keep it in the blog post. 
 - There's a Life section for personal posts and an About page.
 
-![screenshot2](images/screenshot2.png)
+![screenshot2](https://github.com/paposeco/cleanhugotheme/blob/master/images/screenshot2.png)
 
 ## Getting started
 
