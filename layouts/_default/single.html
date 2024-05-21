@@ -17,8 +17,8 @@
   </div>
   <div class="singlepagecontent">{{ .Content }}</div>
 
-  {{if and (ne .Title "About") (ne .Title "Pantagruel")}}
-  {{ partial "singlepagefooter.html" . }}
+  {{if ne .Title "About"}}
+    {{ partial "singlepagefooter.html" . }}
   {{end}}
 </article>
 {{ if and (eq .Section "recipes") ($.Site.Params.recipeSchema)}}

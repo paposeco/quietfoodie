@@ -30,9 +30,9 @@
       {{ .Site.Title }}</span
     >
   </p>
-  <script defer language="javascript" type="module"  src="{{ "/js/search.js" | urlize | relURL }}"></script>
+  <script defer language="javascript" type="module"  src='{{ "/js/search.js" | urlize | relURL }}'></script>
   <script src="https://unpkg.com/lunr/lunr.js"></script>
-  <script defer language="javascript" type="text/javascript"  src="{{ "/js/hidedescription.js" | urlize | relURL }}"></script>
+  <script defer language="javascript" type="text/javascript"  src='{{ "/js/hidedescription.js" | urlize | relURL }}'></script>
   {{ if and (eq .Section "recipes") ($.Site.Params.imagesSideBySide)}}
   {{ end }}
 </footer>
