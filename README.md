@@ -35,8 +35,6 @@ Inside the newly created directory in `[path]`, clone Quiet Foodie theme into th
 Edit hugo.toml to fit your blog and add the following:
 
     theme = "quietfoodie"
-    # your name
-    authorname = "Author"
     
     sectionPagesMenu = "main"
         paginate = 3
@@ -69,29 +67,29 @@ If you would like to have a favicon, place it inside `static/images` and name it
 
 ### Blog structure
 
-Inside the `content` directory create a file named _index.md with the following content:
+Inside the `content` directory create a file named `_index.md` with the following content:
 
     ---
     weight: 130
     --- 
 
-Inside the `content` directory create a directory called `recipes`. Create a file named _index.md inside the `recipes` directory with the following content:
+Inside the `content` directory create a directory called `recipes`. Create a file named `_index.md` inside the `recipes` directory with the following content:
 
     ---
     title: "Recipes"
     weight: 130
     ---
 
-Optionally, if you would like to have a Life section on your blog, create a directory called `life` inside the `content` directory. Create a _index.md file inside the directory with the following content: 
+Optionally, if you would like to have a Life section on your blog, create a directory called `life` inside the `content` directory. Create a `_index.md` file inside the directory with the following content: 
 
     ---
     title: "Life"
     weight: 140
     ---
 
-Posts on the Life section will not show up on the frontpage.
+(Posts on the Life section will not show up on the frontpage.)
 
-For the About page, create a directory called `about` inside the `content` directory. Create and index.md file with the following frontmatter:
+For the About page, create a directory called `about` inside the `content` directory. Create an `index.md` file with the following front matter:
 
     ---
     title: "About"
@@ -99,18 +97,17 @@ For the About page, create a directory called `about` inside the `content` direc
     type: "singlepage"
     ---
 
-Finish writing your about page as you please.
+Finish writing your About page as you please.
 
 ### Actual content
 
 Now that your blog structure is set up, you can start creating posts. 
-- At the root of your hugo site, to create a new recipe with recipe schema markup, type 
-    hugo new content --kind recipeschema recipes/nameofrecipe.md
-- To create a new recipe without markup, type
-    hugo new content recipes/nameofrecipe.md
-- For a life post type
-    hugo new content life/nameofpost.md
-
+- At the root of your hugo site, to create a new recipe with recipe schema markup, type `hugo new content --kind recipeschema recipes/nameofrecipe.md`
+  
+- To create a new recipe without markup, type `hugo new content recipes/nameofrecipe.md`
+  
+- For a life post type `hugo new content life/nameofpost.md`
+  
 Place your images inside the `static/images` directory.
 
 ### Recipe schema markup
@@ -118,3 +115,7 @@ Place your images inside the `static/images` directory.
 Check out the examples inside exampleSite for more details. By creating content using the archetypes as I described before, the recipe files created will be ready for you to fill them out. Shortcodes will be your friends.
 
  Don't forget to change draft to false when you are ready to publish!
+
+## License
+
+This theme is released under the MIT License.
