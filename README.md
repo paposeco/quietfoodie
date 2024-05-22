@@ -6,7 +6,7 @@ Clean and concise Hugo theme designed for creating a Food Blog.
 
 ## Live demo
 
-You can find a live demo on [github pages](https://paposeco.github.io/cleanhugotheme/), but for a full version you can check my own food blog [Punched Potatoes](https://punchedpotatoes.com).
+You can find a live demo on [github pages](https://paposeco.github.io/quietfoodie/), but for a full version you can check my own food blog [Punched Potatoes](https://punchedpotatoes.com).
 
 ## Main features
 
@@ -28,14 +28,13 @@ Create a new Hugo Site:
 
 Inside the newly created directory in `[path]`, clone Quiet Foodie theme into the `/themes` directory:
 
-    git clone https://github.com/paposeco/cleanhugotheme.git themes/quietfoodie
+    git clone https://github.com/paposeco/quietfoodie.git
 
 ### Configuration
 
 Edit hugo.toml to fit your blog and add the following:
 
     theme = "quietfoodie"
-    
     sectionPagesMenu = "main"
         paginate = 3
 
@@ -103,11 +102,9 @@ Finish writing your About page as you please.
 
 Now that your blog structure is set up, you can start creating posts. 
 - At the root of your hugo site, to create a new recipe with recipe schema markup, type `hugo new content --kind recipeschema recipes/nameofrecipe.md`
-  
 - To create a new recipe without markup, type `hugo new content recipes/nameofrecipe.md`
-  
 - For a life post type `hugo new content life/nameofpost.md`
-  
+
 Place your images inside the `static/images` directory.
 
 ### Recipe schema markup

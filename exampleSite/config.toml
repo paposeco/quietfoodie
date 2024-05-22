@@ -1,5 +1,5 @@
 # your domain
-baseURL = "https://paposeco.github.io/cleanhugotheme"
+baseURL = "https://paposeco.github.io/quietfoodie"
 # if your baseurl is the site root, set canonifyurls to false (example site is hosted on github pages)
 canonifyURLs = "true"
 languageCode = "en-us"

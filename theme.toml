@@ -1,11 +1,11 @@
-# Minimal Food Blog Hugo Theme 
+# Simple Food Blog Hugo Theme 
 
 name = "Quiet Foodie"
 license = "MIT"
-licenselink = "https://github.com/paposeco/cleanhugotheme/LICENSE"
+licenselink = "https://github.com/paposeco/quietfoodie/LICENSE"
 description = "Simple food blog with optional recipe schema markup"
-homepage = "https://github.com/paposeco/cleanhugotheme/"
-demosite = "https://paposeco.github.io/cleanhugotheme/"
+homepage = "https://github.com/paposeco/quietfoodie/"
+demosite = "https://paposeco.github.io/quietfoodie/"
 tags = ["recipes", "blog"]
 features = ["minimalist", "white"]
 
