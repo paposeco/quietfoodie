@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses on Food Blog</title>
-    <link>http://localhost:1313/quietfoodie/courses/</link>
+    <link>https://paposeco.github.io/quietfoodie/courses/</link>
     <description>Recent content in Courses on Food Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 12:22:31 +0100</lastBuildDate><atom:link href="http://localhost:1313/quietfoodie/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 12:22:31 +0100</lastBuildDate><atom:link href="https://paposeco.github.io/quietfoodie/courses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breakfast</title>
-      <link>http://localhost:1313/quietfoodie/courses/breakfast/</link>
+      <link>https://paposeco.github.io/quietfoodie/courses/breakfast/</link>
       <pubDate>Tue, 21 May 2024 12:22:31 +0100</pubDate>
       
-      <guid>http://localhost:1313/quietfoodie/courses/breakfast/</guid>
+      <guid>https://paposeco.github.io/quietfoodie/courses/breakfast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dessert</title>
-      <link>http://localhost:1313/quietfoodie/courses/dessert/</link>
+      <link>https://paposeco.github.io/quietfoodie/courses/dessert/</link>
       <pubDate>Tue, 21 May 2024 12:22:31 +0100</pubDate>
       
-      <guid>http://localhost:1313/quietfoodie/courses/dessert/</guid>
+      <guid>https://paposeco.github.io/quietfoodie/courses/dessert/</guid>
       <description></description>
     </item>
     
