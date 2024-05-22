@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Food Blog</title>
-    <link>https://paposeco.github.io/cleanhugotheme/tags/</link>
+    <link>http://localhost:1313/quietfoodie/tags/</link>
     <description>Recent content in Tags on Food Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 12:22:31 +0100</lastBuildDate><atom:link href="https://paposeco.github.io/cleanhugotheme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 May 2024 12:22:31 +0100</lastBuildDate><atom:link href="http://localhost:1313/quietfoodie/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple</title>
-      <link>https://paposeco.github.io/cleanhugotheme/tags/apple/</link>
+      <link>http://localhost:1313/quietfoodie/tags/apple/</link>
       <pubDate>Tue, 21 May 2024 12:22:31 +0100</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/tags/apple/</guid>
+      <guid>http://localhost:1313/quietfoodie/tags/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custard</title>
-      <link>https://paposeco.github.io/cleanhugotheme/tags/custard/</link>
+      <link>http://localhost:1313/quietfoodie/tags/custard/</link>
       <pubDate>Tue, 21 May 2024 12:22:31 +0100</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/tags/custard/</guid>
+      <guid>http://localhost:1313/quietfoodie/tags/custard/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Puffpastry</title>
-      <link>https://paposeco.github.io/cleanhugotheme/tags/puffpastry/</link>
+      <link>http://localhost:1313/quietfoodie/tags/puffpastry/</link>
       <pubDate>Tue, 21 May 2024 12:22:31 +0100</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/tags/puffpastry/</guid>
+      <guid>http://localhost:1313/quietfoodie/tags/puffpastry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bread</title>
-      <link>https://paposeco.github.io/cleanhugotheme/tags/bread/</link>
+      <link>http://localhost:1313/quietfoodie/tags/bread/</link>
       <pubDate>Mon, 20 May 2024 14:05:54 +0100</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/tags/bread/</guid>
+      <guid>http://localhost:1313/quietfoodie/tags/bread/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easter</title>
-      <link>https://paposeco.github.io/cleanhugotheme/tags/easter/</link>
+      <link>http://localhost:1313/quietfoodie/tags/easter/</link>
       <pubDate>Mon, 20 May 2024 14:05:54 +0100</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/tags/easter/</guid>
+      <guid>http://localhost:1313/quietfoodie/tags/easter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Portuguese</title>
-      <link>https://paposeco.github.io/cleanhugotheme/tags/portuguese/</link>
+      <link>http://localhost:1313/quietfoodie/tags/portuguese/</link>
       <pubDate>Mon, 20 May 2024 14:05:54 +0100</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/tags/portuguese/</guid>
+      <guid>http://localhost:1313/quietfoodie/tags/portuguese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Special Occasion</title>
-      <link>https://paposeco.github.io/cleanhugotheme/tags/special-occasion/</link>
+      <link>http://localhost:1313/quietfoodie/tags/special-occasion/</link>
       <pubDate>Mon, 20 May 2024 14:05:54 +0100</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/tags/special-occasion/</guid>
+      <guid>http://localhost:1313/quietfoodie/tags/special-occasion/</guid>
       <description></description>
     </item>
     

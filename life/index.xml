@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Food Blog</title>
-    <link>https://paposeco.github.io/cleanhugotheme/life/</link>
+    <link>http://localhost:1313/quietfoodie/life/</link>
     <description>Recent content in Life on Food Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2022 10:59:00 +0200</lastBuildDate><atom:link href="https://paposeco.github.io/cleanhugotheme/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 10:59:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/quietfoodie/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A trip to Seoul</title>
-      <link>https://paposeco.github.io/cleanhugotheme/life/2022-02-16-seoul/</link>
+      <link>http://localhost:1313/quietfoodie/life/2022-02-16-seoul/</link>
       <pubDate>Tue, 15 Feb 2022 10:59:00 +0200</pubDate>
       
-      <guid>https://paposeco.github.io/cleanhugotheme/life/2022-02-16-seoul/</guid>
+      <guid>http://localhost:1313/quietfoodie/life/2022-02-16-seoul/</guid>
       <description>What a nice trip it was.</description>
     </item>
     
